@@ -1,4 +1,4 @@
-Please Read this if you want to learn more about this project (either interested or a "recruiter"). I created it just for this person.
+Please Read the below link into the intro pdf/slideshow if you want to learn more about this project (either interested or a "recruiter"). I created it just for you for this purpose.
 
 https://github.com/al3xzheng/Temperature_Controlled_Test_Fixture/blob/main/PID%20Temperature%20Controlled%20Chip%20Test%20Fixture%20for%20Electromigration.pdf
 
