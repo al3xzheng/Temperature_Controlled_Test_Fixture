@@ -1,3 +1,7 @@
+Please Read this if you want to learn more about this project (either interested or a "recruiter"). I created it just for this person.
+
+https://github.com/al3xzheng/Temperature_Controlled_Test_Fixture/blob/main/PID%20Temperature%20Controlled%20Chip%20Test%20Fixture%20for%20Electromigration.pdf
+
 # PID-Thermal-Control
 ![IMG_7422](https://github.com/user-attachments/assets/9f474832-294d-4d45-9bae-7eab672aeb51)
 ![IMG_7419](https://github.com/user-attachments/assets/b5f559a1-9c32-4aa2-a7e4-15825fac4e4f)
